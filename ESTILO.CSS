@@ -1,0 +1,21 @@
+h1{
+    COLOR: pink;/*Desordenada */
+}
+
+h2{
+    COLOR: rgb(205, 33, 205);/*Ordenada */
+}
+body{
+    background-color: rgb(172, 240, 240);
+}
+p{
+    font-size: 75%;
+}
+p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: center;
+}
+
