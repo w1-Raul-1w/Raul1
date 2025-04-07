@@ -1,0 +1,14 @@
+section,article,div{
+background-color:white;
+margin:20px,
+padding:15px;
+border-radius: 8px;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.PLANETAS{
+    text-align: center;
+}
