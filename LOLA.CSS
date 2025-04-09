@@ -1,7 +1,7 @@
 section,article,div{
 background-color:white;
 margin:20px,
-padding:15px;
+padding: 15px;
 border-radius: 8px;
 }
 
@@ -11,4 +11,16 @@ body{
 
 .PLANETAS{
     text-align: center;
+}
+ table{
+    text-align: center;
+ }
+
+.row{
+    width: 95%;
+    display: flex;
+}
+
+.col4{
+    width: 25%;
 }
